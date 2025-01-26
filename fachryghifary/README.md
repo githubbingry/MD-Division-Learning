@@ -1,8 +1,8 @@
 ## ABOUT ME
 
 - My name is Fachry Ghifary (09021182328009)
-- Member of GDGoC UNSRI in Mobile Development division on batch 2025/2026
-- From Computer Science faculty majoring in Informatics Engineering
+- Member of GDGoC UNSRI in Mobile Development division on batch 2024/2025
+- From Computer Science faculty majoring in Informatics Engineering on batch 2023
 - Interest:
     - One of subsection of Computer Vision which is Image Processing
     - Competitive Programming (would like to win one.., tho it need a lot of grinding and I'm lazy as hell)
