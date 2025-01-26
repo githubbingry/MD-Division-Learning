@@ -1,6 +1,11 @@
 ## ABOUT ME
 
-My name is Fachry Ghifary(09021182328009), member of GDGoC UNSRI in Mobile Development division on batch 2025/2026. I'm from Computer Science faculty majoring in Informatics Engineering. As of now I'm interested in one of subsection of Computer Vision and that is Image Processing. I'm also interested in Competitive Programming and would like to win one... (tho it need a lot of grinding and I'm lazy as hell).
+- My name is Fachry Ghifary (09021182328009)
+- Member of GDGoC UNSRI in Mobile Development division on batch 2025/2026
+- From Computer Science faculty majoring in Informatics Engineering
+- Interest:
+    - One of subsection of Computer Vision which is Image Processing
+    - Competitive Programming (would like to win one.., tho it need a lot of grinding and I'm lazy as hell)
 
 Well thats about it sankyuu.
 
